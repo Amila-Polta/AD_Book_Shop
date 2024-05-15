@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AD_Book_Shop/1.0.0": {
+        "runtime": {
+          "AD_Book_Shop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AD_Book_Shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
