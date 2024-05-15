@@ -3,52 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\views\\book\\details.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:views\\book\\details.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\models\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:models\\book\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|c:\\users\\lenovo\\documents\\lmu_topup\\ad\\coursework 2\\bookshop\\ad_book_shop\\views\\home\\bookstore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{354CBA23-E760-44D8-9808-990F956E4CDD}|AD_Book_Shop.csproj|solutionrelative:views\\home\\bookstore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,102 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Book\\Details.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml.css",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Book\\Details.cshtml.css",
-              "RelativeToolTip": "Views\\Book\\Details.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-15T10:51:00.635Z",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAwAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:14:01.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T10:34:58.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout2.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout2.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout2.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T10:33:52.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAywB8AAABtAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T10:31:06.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Book\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Book\\Details.cshtml",
-              "RelativeToolTip": "Views\\Book\\Details.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T10:10:44.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "Views\\Book\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T10:05:40.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Models\\Book\\BookService.cs",
-              "RelativeDocumentMoniker": "Models\\Book\\BookService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Models\\Book\\BookService.cs",
-              "RelativeToolTip": "Models\\Book\\BookService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:48:04.109Z",
+              "WhenOpened": "2024-05-15T15:05:47.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T14:53:47.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAxwH0AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T13:40:45.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookController.cs",
@@ -166,54 +103,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookStore.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Home\\BookStore.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\BookStore.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Views\\Home\\BookStore.cshtml",
-              "RelativeToolTip": "Views\\Home\\BookStore.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T08:35:17.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T08:32:49.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T08:31:22.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\LMU_Topup\\AD\\coursework 2\\BookShop\\AD_Book_Shop\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T08:24:46.169Z",
               "EditorCaption": ""
             }
           ]
