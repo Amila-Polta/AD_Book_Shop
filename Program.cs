@@ -13,6 +13,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+// Middleware - use between controller and user  (works requests and response)
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
@@ -20,6 +21,7 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+// Setup Routing
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

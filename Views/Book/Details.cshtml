@@ -1,0 +1,24 @@
+﻿@using AD_Book_Shop.Models.Book
+@{
+
+}
+
+
+
+<h1>@ViewData["Pagetitle"]</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>@ViewBag.book.Id</td>
+			<td>@ViewBag.book.BookName</td>
+		</tr>
+	</tbody>
+</table>
+
